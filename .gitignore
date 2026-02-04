@@ -1,0 +1,48 @@
+# Node
+node_modules/
+
+# Env
+build/.env
+
+# Meteor build artifacts
+build/
+.meteor/local
+_build
+*/build-assets
+*/build-chunks
+.rsdoctor
+
+# JetBrains IDE / WebStorm
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/mongoSettings.xml
+.idea/**/sonarlint/
+.idea/**/copilot.data.migration.*.xml
+out/
+.idea_modules/
+*.iws
+http-client.private.env.json
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+.idea/.cache/.Apifox_Helper
+.idea/ApifoxUploaderProjectSetting.xml
+
+# OS
+.DS_Store
+Thumbs.db
